@@ -1,6 +1,6 @@
-# Simple File Manager
+# Fazt
 
-This is a simple file manager for Windows written in Python using the `tkinter` library for the graphical user interface.
+Fazt File manager for Windows written in Python using the `tkinter` library for the graphical user interface.
 
 ## Features
 
@@ -13,8 +13,8 @@ This is a simple file manager for Windows written in Python using the `tkinter` 
 
 ## How to Run
 
-1. Ensure you have Python 3.x installed on your system.
-2. Save the code to a file named `simple_file_manager.py`.
-3. Run the script using Python: 
+1. Download the executable file at /dist
+2. After downloading click to automatically run the app
+3. enjoyyy!
    ```sh
-   python simple_file_manager.py
+   faztFile.exe
